@@ -1,0 +1,25 @@
+{
+  "name": "cypress_mba",
+  "version": "1.0.0",
+  "description": "CYPRESS MBA OGUZ HOCA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msen2020/CYPRESS_MBA.git"
+  },
+  "keywords": [
+    "Githubmsen2020"
+  ],
+  "author": "QA MSEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msen2020/CYPRESS_MBA/issues"
+  },
+  "homepage": "https://github.com/msen2020/CYPRESS_MBA#readme",
+  "dependencies": {
+    "cypress": "^13.15.0"
+  }
+}
